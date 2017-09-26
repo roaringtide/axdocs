@@ -1,3 +1,3 @@
 # Just a toc
 
-[Link](https://roaringtide.github.io/axdocs)
+[Home](https://roaringtide.github.io/axdocs)
